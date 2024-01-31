@@ -143,8 +143,9 @@ cython_debug/
 etc/lunar-ecliptic-longitude/*
 etc/solar-ecliptic-longitude/*
 
-# Vscode
+# Editors
 .vscode
+.idea
 
 # not intended for inclusion to public project
 /_local
